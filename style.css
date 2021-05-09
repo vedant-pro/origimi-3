@@ -1,0 +1,44 @@
+h1{
+    color: aqua;
+    margin-left: 15px;
+    }
+.header{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.origami{
+    width: 300px;
+    border: solid;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-width: 4px;
+}
+img{
+    border: solid;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-width: 10px;
+    border-color: #6daa0c;
+}
+.contents{
+    margin-left: 10px;
+}
+p{
+    font-weight: bold;
+}
+body{
+    background-image: linear-gradient(to bottom right,rgb(0,80,255),rgb(0,255,80));
+}
+.menu{
+    margin-right: 15px;
+}
